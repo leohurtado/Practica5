@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica5</string>
+    <string name="GradosC">Grados Centigrados: </string>
+    <string name="GradosF">Grados Farenheit: </string>
+    <string name="GradosK">Grados Kelvin: </string>
+    <string name="GradosR">Grados Ranking: </string>
+    <string name="Convert">Convertir</string>
+</resources>
